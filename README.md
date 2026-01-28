@@ -15,13 +15,6 @@ Funciona, é legível e pode evoluir.
 - Bootstrap
 - JavaScript
 
-## Estrutura
-/
-├── index.html
-├── assets/foto.png
-├── css/
-└── js/
-
 shell
 Copy code
 
