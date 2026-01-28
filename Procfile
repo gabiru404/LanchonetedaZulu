@@ -1,1 +1,2 @@
-web: gunicorn LachonetedaZulu.wsgi
+web: gunicorn LanchoneteZulu.wsgi
+
